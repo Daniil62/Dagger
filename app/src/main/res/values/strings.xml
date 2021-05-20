@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dagger</string>
+    <string name="add">Add</string>
+    <string name="alert">Alert</string>
+</resources>
